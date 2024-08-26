@@ -21,14 +21,14 @@
         <repository>
             <id>release</id>
             <name>javap-central-repo</name>
-            <url>http://3.108.63.147:8081/repository/javap-central-repo/</url>
+            <url>http://3.7.46.126:8081/repository/myjava-rs/</url>
             
         </repository>
     
         <snapshotRepository>
-            <id>snapshots</id>
+            <id>snapshot</id>
             <name>javap-central-repo</name>
-            <url>http://3.108.63.147:8081/repository/javap-central-repo/</url>
+            <url>http://3.7.46.126:8081/repository/myjava-rs/</url>
         </snapshotRepository>
     
     </distributionManagement>
